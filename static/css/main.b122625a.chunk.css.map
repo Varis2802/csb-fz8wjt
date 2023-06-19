@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,SACF,CAEA,KACE,sBAAuB,CACvB,iBACF,CAEA,KACE,YAAc,CACd,WACF","file":"main.b122625a.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n}\n\n.App {\n  font-family: sans-serif;\n  text-align: center;\n}\n\n.btn {\n  padding: 0.5em;\n  border: none;\n}\n"]}
